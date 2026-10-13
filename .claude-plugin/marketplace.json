@@ -1,0 +1,13 @@
+{
+  "name": "mejslakonf26-marketplace",
+  "owner": {
+    "name": "Demo"
+  },
+  "plugins": [
+    {
+      "name": "demo-plugin",
+      "source": "./plugins/demo-plugin",
+      "description": "Demo plugin: a hello command, a release-notes skill and a Flyway migration guard hook"
+    }
+  ]
+}

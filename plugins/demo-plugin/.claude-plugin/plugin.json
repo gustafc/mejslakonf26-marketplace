@@ -1,0 +1,9 @@
+{
+  "name": "demo-plugin",
+  "displayName": "Mejsla Demo Plugin",
+  "description": "Demo plugin: a hello command, a release-notes skill and a Flyway migration guard hook",
+  "keywords": ["demo", "changelog", "flyway"],
+  "author": {
+    "name": "info@mejsla.se"
+  }
+}
